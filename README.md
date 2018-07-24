@@ -20,3 +20,21 @@ company_type | Type of current employer
 last_new_job | Difference in years between previous job and current job
 training_hours | training hours completed
 target | 0 – Not looking for job change, 1 – Looking for a job change
+
+# Evaluation Metric #
+
+The evaluation metric for this competition is AUC-ROC score.
+
+# Result #
+	| Leaderboard  | AUC Score |
+|:-------------:|:-------------:|
+  Public | 0.6792061693 
+ Private | 0.6783445847  
+ 
+| Rank  | Total Participants |
+|:-------------:|:-------------:|
+| 62 | 1018 |
+ 
+# Lesson Learnt #
+Trust your CV score more than the public leaderboard. I also improvised the way I calculate the CV score and that has been helpful in ensembling models as well.
+ 
