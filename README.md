@@ -26,10 +26,10 @@ target | 0 – Not looking for job change, 1 – Looking for a job change
 The evaluation metric for this competition is AUC-ROC score.
 
 # Result #
-	| Leaderboard  | AUC Score |
+| Leaderboard  | AUC Score |
 |:-------------:|:-------------:|
-  Public | 0.6792061693 
- Private | 0.6783445847  
+| Public | 0.6792061693 | 
+| Private | 0.6783445847 | 
  
 | Rank  | Total Participants |
 |:-------------:|:-------------:|
